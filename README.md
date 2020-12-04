@@ -2,6 +2,10 @@
 
     File Encryption
     
+# Requirement
+
+    pip3 install cryptography
+    
 # Usage
 
     python3 EncDecTool.py
